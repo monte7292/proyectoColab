@@ -1,0 +1,7 @@
+package Prueba;
+
+public class Holamundo14 {
+	public void escribirlinea() {
+		System.out.println("Hola Mundo");
+	}
+}
